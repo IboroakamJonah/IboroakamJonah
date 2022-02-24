@@ -1,4 +1,4 @@
-name: "📚 Lastest Blog Post"
+name: "📚 Blog Updater"
 
 on:
   workflow_dispatch:
@@ -13,10 +13,10 @@ jobs:
       - name: "📥  Fetching Repository Contents"
         uses: actions/checkout@main
 
-      - name: "📚  Lastest Blog Post"
+      - name: "📚  Hashnode Updater"
         uses: "varunsridharan/action-hashnode-blog@main"
         with:
-          USERNAME: 'IboroakamJonah' # Hashnode Username
+          USERNAME: 'IboroakamJonah # Hashnode Username
           COUNT: 10 # MAX Visisble
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
