@@ -23,8 +23,6 @@ I write technical articles on my [blog](https://iboroakamjonah.hashnode.dev/), t
 📘 Latest Blog Articles
 
 <!-- BLOG-POST-LIST:START -->
-- [Testing Github Auto Update](https://iboroakamjonah.hashnode.dev/testing-github-auto-update)
-- [Testing Github autoUpdate](https://iboroakamjonah.hashnode.dev/testing-github-autoupdate)
 - [Preparing My github Profile](https://iboroakamjonah.hashnode.dev/preparing-my-github-profile)
 <!-- BLOG-POST-LIST:END -->
 
