@@ -23,7 +23,7 @@ I write technical articles on my [blog](https://iboroakamjonah.hashnode.dev/), t
 📘 Latest Blog Articles
 
 <!-- BLOG-POST-LIST:START -->
-
+- [Preparing My github Profile](https://iboroakamjonah.hashnode.dev/preparing-my-github-profile)
 <!-- BLOG-POST-LIST:END -->
 
 [......More Blog Articles](https://iboroakamjonah.hashnode.dev/)
