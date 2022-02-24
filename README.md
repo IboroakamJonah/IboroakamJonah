@@ -2,7 +2,7 @@
 
 ***
 
-![Twitter Follow](https://img.shields.io/twitter/follow/Iboroakam_Jonah?label=Twitter%20Account&style=for-the-badge)
+[![Twitter Follow](https://img.shields.io/twitter/follow/Iboroakam_Jonah?label=Twitter%20Account&style=for-the-badge)](https://twitter.com/Iboroakam_Jonah)
 
 
 A junior python developer, I work with python frameworks like flask and Django, I love building scripts
